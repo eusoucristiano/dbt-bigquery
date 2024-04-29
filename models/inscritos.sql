@@ -1,0 +1,1 @@
+SELECT * FROM `abstract-tract-250010.inscritos_042024.inscritos` 
